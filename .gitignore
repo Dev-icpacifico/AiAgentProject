@@ -1,0 +1,13 @@
+.venv
+.idea
+*.env
+Agente_v2/agentv2
+Agente_v2/app/data/chroma/*
+Agente_v2/data/raw/*
+hr-assistant/app/Documentos/*
+hr-assistant/app/hr-assistant/data/chroma/*
+hr-assistant/data/chroma/*
+hr-assistant/Documentos/*
+hr-assistant/hr-assistant/data/chroma/*
+LangGraphAgent/lg-env
+*config.py
