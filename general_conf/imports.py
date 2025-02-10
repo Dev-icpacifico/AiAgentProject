@@ -11,7 +11,7 @@ from tabnanny import verbose
 
 # 🔹 Carga de variables de entorno
 from dotenv import load_dotenv, find_dotenv
-from config import key  # Configuración personalizada
+from general_conf import config# Configuración personalizada
 
 # 🔹 Streamlit (para interfaces interactivas)
 import streamlit as st
